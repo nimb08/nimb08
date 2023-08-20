@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chatbot<br>📢 I’m looking for a Job<br>🤝 I’m looking for help with Data Science<br>🌱 I’m currently learning ELT Pipelines.<br>💬 Ask me about anything related to Data Analytics<br>
+🔭 I’m currently working on Chatbot<br>📢 I’m looking for a Job<br>🤝 I’m looking for help with Data Science<br>🌱 I’m currently learning about ELT Pipelines.<br>💬 Ask me about anything related to Data Analytics<br>
 
 
 ## 🌐 Socials:
